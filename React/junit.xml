@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" time="5.324">
+  <testsuite name="Payment Validation" errors="0" failures="0" skipped="0" timestamp="2023-05-10T20:23:00" time="4.276" tests="7">
+    <testcase classname="Payment Validation Should have the correct input type for all fields" name="Payment Validation Should have the correct input type for all fields" time="0.065">
+    </testcase>
+    <testcase classname="Payment Validation Should validate the card number correctly" name="Payment Validation Should validate the card number correctly" time="0.038">
+    </testcase>
+    <testcase classname="Payment Validation Should validate the name correctly" name="Payment Validation Should validate the name correctly" time="0.029">
+    </testcase>
+    <testcase classname="Payment Validation Should validate the month correctly" name="Payment Validation Should validate the month correctly" time="0.019">
+    </testcase>
+    <testcase classname="Payment Validation Should validate the year correctly" name="Payment Validation Should validate the year correctly" time="0.037">
+    </testcase>
+    <testcase classname="Payment Validation Should validate the CVV correctly" name="Payment Validation Should validate the CVV correctly" time="0.022">
+    </testcase>
+    <testcase classname="Payment Validation Submit button should only be enabled if all validations are complete" name="Payment Validation Submit button should only be enabled if all validations are complete" time="0.044">
+    </testcase>
+  </testsuite>
+</testsuites>
